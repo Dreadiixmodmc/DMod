@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/uranium_block",
+    "up": "mon_mod:blocks/uranium_block",
+    "north": "mon_mod:blocks/uranium_block",
+    "east": "mon_mod:blocks/uranium_block",
+    "south": "mon_mod:blocks/uranium_block",
+    "west": "mon_mod:blocks/uranium_block",
+    "particle": "mon_mod:blocks/uranium_block"
+  }
+}
