@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "mon_mod:blocks/roche_ancienne",
+    "top": "mon_mod:blocks/roche_ancienne",
+    "side": "mon_mod:blocks/roche_ancienne"
+  }
+}

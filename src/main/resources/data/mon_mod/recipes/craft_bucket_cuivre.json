@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:cuivre"
+    },
+    "2": {
+      "item": "mon_mod:cuivre"
+    },
+    "4": {
+      "item": "mon_mod:cuivre"
+    }
+  },
+  "result": {
+    "item": "mon_mod:bucket_cuivre",
+    "count": 1
+  }
+}

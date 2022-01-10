@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:onyx"
+    },
+    "1": {
+      "item": "mon_mod:onyx"
+    },
+    "2": {
+      "item": "mon_mod:onyx"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_onyx_axe",
+    "count": 1
+  }
+}

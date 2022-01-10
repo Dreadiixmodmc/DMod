@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:aluminium"
+    },
+    "1": {
+      "item": "mon_mod:aluminium"
+    },
+    "2": {
+      "item": "mon_mod:aluminium"
+    },
+    "3": {
+      "item": "mon_mod:aluminium"
+    },
+    "4": {
+      "item": "mon_mod:aluminium"
+    },
+    "5": {
+      "item": "mon_mod:aluminium"
+    },
+    "6": {
+      "item": "mon_mod:aluminium"
+    },
+    "7": {
+      "item": "mon_mod:aluminium"
+    },
+    "8": {
+      "item": "mon_mod:aluminium"
+    }
+  },
+  "result": {
+    "item": "mon_mod:block_aluminium",
+    "count": 1
+  }
+}

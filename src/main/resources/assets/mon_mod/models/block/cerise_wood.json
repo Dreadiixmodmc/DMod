@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mon_mod:blocks/cerise_log_side",
+    "particle": "mon_mod:blocks/cerise_log_side"
+  }
+}

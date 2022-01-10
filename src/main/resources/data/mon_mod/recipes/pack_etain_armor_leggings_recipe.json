@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:etain"
+    },
+    "1": {
+      "item": "mon_mod:etain"
+    },
+    "2": {
+      "item": "mon_mod:etain"
+    },
+    "3": {
+      "item": "mon_mod:etain"
+    },
+    "5": {
+      "item": "mon_mod:etain"
+    },
+    "6": {
+      "item": "mon_mod:etain"
+    },
+    "8": {
+      "item": "mon_mod:etain"
+    }
+  },
+  "result": {
+    "item": "mon_mod:armure_etain_leggings",
+    "count": 1
+  }
+}

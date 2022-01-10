@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:onyx"
+    },
+    "2": {
+      "item": "mon_mod:onyx"
+    },
+    "3": {
+      "item": "mon_mod:onyx"
+    },
+    "4": {
+      "item": "mon_mod:onyx"
+    },
+    "5": {
+      "item": "mon_mod:onyx"
+    },
+    "6": {
+      "item": "mon_mod:onyx"
+    },
+    "7": {
+      "item": "mon_mod:onyx"
+    },
+    "8": {
+      "item": "mon_mod:onyx"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_onyx_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pack_rubis_axe",
+    "customModelName": "Normal",
+    "name": "Hache en Rubis",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 8,
+    "efficiency": 16.0,
+    "attackSpeed": 1.0,
+    "enchantability": 40,
+    "damageVsEntity": 10.0,
+    "usageCount": 4000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Rubis"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:pierre_ancienne"
+    },
+    "1": {
+      "item": "mon_mod:pierre_ancienne"
+    },
+    "2": {
+      "item": "mon_mod:pierre_ancienne"
+    }
+  },
+  "result": {
+    "item": "mon_mod:dalleen_pierre_ancienne",
+    "count": 6
+  }
+}

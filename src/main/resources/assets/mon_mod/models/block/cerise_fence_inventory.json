@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "mon_mod:blocks/cerise_planks",
+    "particle": "mon_mod:blocks/cerise_planks"
+  }
+}

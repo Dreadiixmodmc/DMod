@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mon_mod:block/dalleen_pierretailleeen_roche_ancienne_moussues"
+    },
+    "type=top": {
+      "model": "mon_mod:block/dalleen_pierretailleeen_roche_ancienne_moussues_top"
+    },
+    "type=double": {
+      "model": "mon_mod:block/dalleen_pierretailleeen_roche_ancienne_moussues_full"
+    }
+  }
+}

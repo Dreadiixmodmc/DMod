@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/aluminium_block",
+    "up": "mon_mod:blocks/aluminium_block",
+    "north": "mon_mod:blocks/aluminium_block",
+    "east": "mon_mod:blocks/aluminium_block",
+    "south": "mon_mod:blocks/aluminium_block",
+    "west": "mon_mod:blocks/aluminium_block",
+    "particle": "mon_mod:blocks/aluminium_block"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:etain"
+    },
+    "2": {
+      "item": "mon_mod:etain"
+    },
+    "3": {
+      "item": "mon_mod:etain"
+    },
+    "5": {
+      "item": "mon_mod:etain"
+    }
+  },
+  "result": {
+    "item": "mon_mod:armure_etain_boots",
+    "count": 1
+  }
+}

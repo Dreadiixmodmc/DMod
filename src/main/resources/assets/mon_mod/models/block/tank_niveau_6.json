@@ -1,0 +1,10 @@
+{
+  "parent": "mon_mod:custom/tankniveau6",
+  "textures": {
+    "all": "mon_mod:blocks/tankniveau6",
+    "particle": "mon_mod:blocks/tankniveau6",
+    "0": "mon_mod:blocks/cote",
+    "1": "mon_mod:blocks/dessus",
+    "2": "mon_mod:blocks/eauanime"
+  }
+}

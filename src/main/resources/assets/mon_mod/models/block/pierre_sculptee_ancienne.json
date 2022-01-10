@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/pierre_sculptee_ancienne",
+    "up": "mon_mod:blocks/pierre_sculptee_ancienne",
+    "north": "mon_mod:blocks/pierre_sculptee_ancienne",
+    "east": "mon_mod:blocks/pierre_sculptee_ancienne",
+    "south": "mon_mod:blocks/pierre_sculptee_ancienne",
+    "west": "mon_mod:blocks/pierre_sculptee_ancienne",
+    "particle": "mon_mod:blocks/pierre_sculptee_ancienne"
+  }
+}

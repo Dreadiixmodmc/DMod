@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mon_mod:items/os_du_bras_de_dinosaure"
+  }
+}

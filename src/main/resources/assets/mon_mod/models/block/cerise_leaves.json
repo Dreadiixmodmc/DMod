@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/cerise_leaves",
+    "up": "mon_mod:blocks/cerise_leaves",
+    "north": "mon_mod:blocks/cerise_leaves",
+    "east": "mon_mod:blocks/cerise_leaves",
+    "south": "mon_mod:blocks/cerise_leaves",
+    "west": "mon_mod:blocks/cerise_leaves",
+    "particle": "mon_mod:blocks/cerise_leaves"
+  }
+}

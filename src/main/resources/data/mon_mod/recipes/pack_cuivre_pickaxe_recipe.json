@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:cuivre"
+    },
+    "1": {
+      "item": "mon_mod:cuivre"
+    },
+    "2": {
+      "item": "mon_mod:cuivre"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pioche_cuivre",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CeriseWood"
+      },
+      {
+        "value": "CUSTOM:CeriseLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "cerise_log",
+    "namespace": "forge"
+  }
+}

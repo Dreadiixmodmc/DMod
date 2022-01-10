@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:cerise_log"
+    },
+    "1": {
+      "item": "mon_mod:cerise_log"
+    },
+    "2": {
+      "item": "mon_mod:cerise_log"
+    },
+    "3": {
+      "item": "mon_mod:cerise_log"
+    }
+  },
+  "result": {
+    "item": "mon_mod:cerise_wood",
+    "count": 3
+  }
+}

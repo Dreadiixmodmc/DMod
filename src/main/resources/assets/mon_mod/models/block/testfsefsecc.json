@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/adamantium",
+    "up": "mon_mod:blocks/adamantium",
+    "north": "mon_mod:blocks/adamantium",
+    "east": "mon_mod:blocks/adamantium",
+    "south": "mon_mod:blocks/adamantium",
+    "west": "mon_mod:blocks/adamantium",
+    "particle": "mon_mod:blocks/adamantium"
+  }
+}

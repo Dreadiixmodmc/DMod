@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/minerais_adamantium",
+    "up": "mon_mod:blocks/minerais_adamantium",
+    "north": "mon_mod:blocks/minerais_adamantium",
+    "east": "mon_mod:blocks/minerais_adamantium",
+    "south": "mon_mod:blocks/minerais_adamantium",
+    "west": "mon_mod:blocks/minerais_adamantium",
+    "particle": "mon_mod:blocks/minerais_adamantium"
+  }
+}

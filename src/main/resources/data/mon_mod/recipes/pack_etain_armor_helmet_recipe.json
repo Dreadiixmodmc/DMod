@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:etain"
+    },
+    "1": {
+      "item": "mon_mod:etain"
+    },
+    "2": {
+      "item": "mon_mod:etain"
+    },
+    "3": {
+      "item": "mon_mod:etain"
+    },
+    "5": {
+      "item": "mon_mod:etain"
+    }
+  },
+  "result": {
+    "item": "mon_mod:armure_etain_helmet",
+    "count": 1
+  }
+}

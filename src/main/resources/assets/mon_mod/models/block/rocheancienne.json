@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/roche_ancienne",
+    "up": "mon_mod:blocks/roche_ancienne",
+    "north": "mon_mod:blocks/roche_ancienne",
+    "east": "mon_mod:blocks/roche_ancienne",
+    "south": "mon_mod:blocks/roche_ancienne",
+    "west": "mon_mod:blocks/roche_ancienne",
+    "particle": "mon_mod:blocks/roche_ancienne"
+  }
+}

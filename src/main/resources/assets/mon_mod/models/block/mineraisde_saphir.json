@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/minerais_saphir",
+    "up": "mon_mod:blocks/minerais_saphir",
+    "north": "mon_mod:blocks/minerais_saphir",
+    "east": "mon_mod:blocks/minerais_saphir",
+    "south": "mon_mod:blocks/minerais_saphir",
+    "west": "mon_mod:blocks/minerais_saphir",
+    "particle": "mon_mod:blocks/minerais_saphir"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:rocheancienne"
+    },
+    "1": {
+      "item": "mon_mod:rocheancienne"
+    },
+    "2": {
+      "item": "mon_mod:rocheancienne"
+    }
+  },
+  "result": {
+    "item": "mon_mod:dalleen_roche_ancienne",
+    "count": 6
+  }
+}

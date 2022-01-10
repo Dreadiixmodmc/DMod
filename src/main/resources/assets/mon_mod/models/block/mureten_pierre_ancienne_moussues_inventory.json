@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "mon_mod:blocks/pierre_ancienne_moussues",
+    "particle": "mon_mod:blocks/pierre_ancienne_moussues"
+  }
+}

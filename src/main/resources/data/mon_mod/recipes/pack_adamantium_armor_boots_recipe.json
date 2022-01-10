@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:adamantium"
+    },
+    "2": {
+      "item": "mon_mod:adamantium"
+    },
+    "3": {
+      "item": "mon_mod:adamantium"
+    },
+    "5": {
+      "item": "mon_mod:adamantium"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_adamantium_armor_boots",
+    "count": 1
+  }
+}

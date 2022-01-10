@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CeriseLog"
+      },
+      {
+        "value": "CUSTOM:CeriseLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CeriseLog"
+      },
+      {
+        "value": "CUSTOM:CeriseLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CeriseWood"
+    },
+    "name": "cerise_wood_recipe",
+    "namespace": "mod"
+  }
+}

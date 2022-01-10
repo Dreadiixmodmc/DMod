@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlockSaphir"
+    },
+    "name": "craft_block_saphir",
+    "namespace": "mod"
+  }
+}

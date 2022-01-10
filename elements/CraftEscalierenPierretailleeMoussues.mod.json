@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PierretailleeenRocheAncienneMoussues"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PierretailleeenRocheAncienneMoussues"
+      },
+      {
+        "value": "CUSTOM:PierretailleeenRocheAncienneMoussues"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PierretailleeenRocheAncienneMoussues"
+      },
+      {
+        "value": "CUSTOM:PierretailleeenRocheAncienneMoussues"
+      },
+      {
+        "value": "CUSTOM:PierretailleeenRocheAncienneMoussues"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EscalierenPierretailleeenRocheAncienneMoussues"
+    },
+    "name": "craft_escalieren_pierretaillee_moussues",
+    "namespace": "mod"
+  }
+}

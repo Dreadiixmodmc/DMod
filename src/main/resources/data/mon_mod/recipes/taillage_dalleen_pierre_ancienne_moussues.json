@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "mon_mod:pierre_ancienne_moussues"
+  },
+  "result": "mon_mod:dalleen_pierre_ancienne_moussues"
+}

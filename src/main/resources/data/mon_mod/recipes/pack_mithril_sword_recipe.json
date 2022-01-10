@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:mithril"
+    },
+    "1": {
+      "item": "mon_mod:mithril"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mon_mod:epee_mithril",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mon_mod:cerise_log"
+    }
+  ],
+  "result": {
+    "item": "mon_mod:cerise_planks",
+    "count": 4
+  }
+}

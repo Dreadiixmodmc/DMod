@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mon_mod:items/pack_cuivre_sword"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PierreAncienne"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PierreAncienne"
+      },
+      {
+        "value": "CUSTOM:PierreAncienne"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PierreAncienne"
+      },
+      {
+        "value": "CUSTOM:PierreAncienne"
+      },
+      {
+        "value": "CUSTOM:PierreAncienne"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EscalierenPierreAncienne"
+    },
+    "name": "craft_escalieren_pierre_ancienne",
+    "namespace": "mod"
+  }
+}

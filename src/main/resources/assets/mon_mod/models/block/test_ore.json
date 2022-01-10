@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mon_mod:blocks/test_ore",
+    "particle": "mon_mod:blocks/test_ore"
+  }
+}

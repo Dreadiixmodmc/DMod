@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/cerise_log_top",
+    "up": "mon_mod:blocks/cerise_log_top",
+    "north": "mon_mod:blocks/cerise_log_side",
+    "east": "mon_mod:blocks/cerise_log_side",
+    "south": "mon_mod:blocks/cerise_log_side",
+    "west": "mon_mod:blocks/cerise_log_side",
+    "particle": "mon_mod:blocks/cerise_log_top"
+  }
+}

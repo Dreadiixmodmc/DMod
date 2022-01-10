@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:rubis"
+    },
+    "1": {
+      "item": "mon_mod:rubis"
+    },
+    "2": {
+      "item": "mon_mod:rubis"
+    },
+    "3": {
+      "item": "mon_mod:rubis"
+    },
+    "5": {
+      "item": "mon_mod:rubis"
+    },
+    "6": {
+      "item": "mon_mod:rubis"
+    },
+    "8": {
+      "item": "mon_mod:rubis"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_rubis_armor_leggings",
+    "count": 1
+  }
+}

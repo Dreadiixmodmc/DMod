@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "up": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "north": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "east": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "south": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "west": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "particle": "mon_mod:blocks/pierretailleeenrocheancienne"
+  }
+}

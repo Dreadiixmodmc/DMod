@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/bottom",
+    "up": "mon_mod:blocks/black_hole_unit_top",
+    "north": "mon_mod:blocks/advanced_black_hole_tank_front",
+    "east": "mon_mod:blocks/advanced_black_hole_tank_front",
+    "south": "mon_mod:blocks/advanced_black_hole_tank_front",
+    "west": "mon_mod:blocks/advanced_black_hole_tank_front",
+    "particle": "mon_mod:blocks/bottom"
+  }
+}

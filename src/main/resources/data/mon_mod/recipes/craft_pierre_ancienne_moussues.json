@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mon_mod:pierre_ancienne"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "item": "mon_mod:pierre_ancienne_moussues",
+    "count": 1
+  }
+}

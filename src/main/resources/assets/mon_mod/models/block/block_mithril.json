@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/mithril_block",
+    "up": "mon_mod:blocks/mithril_block",
+    "north": "mon_mod:blocks/mithril_block",
+    "east": "mon_mod:blocks/mithril_block",
+    "south": "mon_mod:blocks/mithril_block",
+    "west": "mon_mod:blocks/mithril_block",
+    "particle": "mon_mod:blocks/mithril_block"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Cuivre"
+      },
+      {
+        "value": "CUSTOM:Cuivre"
+      },
+      {
+        "value": "CUSTOM:Cuivre"
+      },
+      {
+        "value": "CUSTOM:Cuivre"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Cuivre"
+      },
+      {
+        "value": "CUSTOM:Cuivre"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Cuivre"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ArmureCuivre.legs"
+    },
+    "name": "pack_cuivre_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "mon_mod:mineraisde_saphir"
+  },
+  "result": {
+    "item": "mon_mod:saphir"
+  }
+}

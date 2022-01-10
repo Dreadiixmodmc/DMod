@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mon_mod:block/dalleen_pierre_ancienne"
+    },
+    "type=top": {
+      "model": "mon_mod:block/dalleen_pierre_ancienne_top"
+    },
+    "type=double": {
+      "model": "mon_mod:block/dalleen_pierre_ancienne_full"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:onyx"
+    },
+    "1": {
+      "item": "mon_mod:onyx"
+    },
+    "2": {
+      "item": "mon_mod:onyx"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_onyx_pickaxe",
+    "count": 1
+  }
+}

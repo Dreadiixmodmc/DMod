@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne_moussues"
+    },
+    "3": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne_moussues"
+    },
+    "4": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne_moussues"
+    },
+    "6": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne_moussues"
+    },
+    "7": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne_moussues"
+    },
+    "8": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne_moussues"
+    }
+  },
+  "result": {
+    "item": "mon_mod:escalieren_pierretailleeen_roche_ancienne_moussues",
+    "count": 4
+  }
+}

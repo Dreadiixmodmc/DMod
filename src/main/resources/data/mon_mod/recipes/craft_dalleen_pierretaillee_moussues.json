@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne_moussues"
+    },
+    "1": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne_moussues"
+    },
+    "2": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne_moussues"
+    }
+  },
+  "result": {
+    "item": "mon_mod:dalleen_pierretailleeen_roche_ancienne_moussues",
+    "count": 6
+  }
+}

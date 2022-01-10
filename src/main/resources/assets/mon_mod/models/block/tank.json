@@ -1,0 +1,9 @@
+{
+  "parent": "mon_mod:custom/tank",
+  "textures": {
+    "all": "mon_mod:blocks/tank",
+    "particle": "mon_mod:blocks/tank",
+    "0": "mon_mod:blocks/cote",
+    "1": "mon_mod:blocks/dessus"
+  }
+}

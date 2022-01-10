@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/mineraisderubis",
+    "up": "mon_mod:blocks/mineraisderubis",
+    "north": "mon_mod:blocks/mineraisderubis",
+    "east": "mon_mod:blocks/mineraisderubis",
+    "south": "mon_mod:blocks/mineraisderubis",
+    "west": "mon_mod:blocks/mineraisderubis",
+    "particle": "mon_mod:blocks/mineraisderubis"
+  }
+}

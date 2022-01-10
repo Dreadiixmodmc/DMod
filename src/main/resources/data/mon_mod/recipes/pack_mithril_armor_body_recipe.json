@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:mithril"
+    },
+    "2": {
+      "item": "mon_mod:mithril"
+    },
+    "3": {
+      "item": "mon_mod:mithril"
+    },
+    "4": {
+      "item": "mon_mod:mithril"
+    },
+    "5": {
+      "item": "mon_mod:mithril"
+    },
+    "6": {
+      "item": "mon_mod:mithril"
+    },
+    "7": {
+      "item": "mon_mod:mithril"
+    },
+    "8": {
+      "item": "mon_mod:mithril"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_mithril_armor_chestplate",
+    "count": 1
+  }
+}

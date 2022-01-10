@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "mon_mod:blocks/pierre_ancienne",
+    "top": "mon_mod:blocks/pierre_ancienne",
+    "side": "mon_mod:blocks/pierre_ancienne"
+  }
+}

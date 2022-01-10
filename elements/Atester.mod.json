@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "A tester",
+    "icon": {
+      "value": "CUSTOM:Tank"
+    },
+    "showSearch": false
+  }
+}

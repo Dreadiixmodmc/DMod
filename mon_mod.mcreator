@@ -1,0 +1,3581 @@
+{
+  "mod_elements": [
+    {
+      "name": "Rubis",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubis",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "MineraisdeRubis",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisde_rubis",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdeSaphir",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisde_saphir",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdeCuivre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisde_cuivre",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdArgent",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisd_argent",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdAluminium",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisd_aluminium",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdePlomb",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisde_plomb",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdeZinc",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisde_zinc",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdEtain",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisd_etain",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdeCobalt",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisde_cobalt",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdePlatine",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisde_platine",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "BlockDinosaure",
+      "type": "tab",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_dinosaure",
+      "path": "~/Onglet Creatif"
+    },
+    {
+      "name": "Rocheancienne",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocheancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/RocheAncienne"
+    },
+    {
+      "name": "Tank",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank",
+      "path": "~/Machine/Tank"
+    },
+    {
+      "name": "TankNiveau1",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_1",
+      "path": "~/Machine/Tank"
+    },
+    {
+      "name": "PierreAncienne",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne"
+    },
+    {
+      "name": "CuissonPierreAncienne",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuisson_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Four"
+    },
+    {
+      "name": "EscalierenRocheAncienne",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escalieren_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/RocheAncienne"
+    },
+    {
+      "name": "DalleenRocheAncienne",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalleen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/RocheAncienne"
+    },
+    {
+      "name": "CraftEscalierenRocheAncienne",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_escalieren_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/RocheAncienne"
+    },
+    {
+      "name": "CraftDalleenRocheAncienne",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_dalleen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/RocheAncienne"
+    },
+    {
+      "name": "PierretailleeenRocheAncienne",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pierretailleeen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee"
+    },
+    {
+      "name": "CraftPierretailleenRocheAncienne",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_pierretailleen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreTaillee"
+    },
+    {
+      "name": "TaillageEscalierenRocheAncienne",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillage_escalieren_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/RocheAncienne"
+    },
+    {
+      "name": "EscalierenPierreAncienne",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escalieren_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne"
+    },
+    {
+      "name": "DalleenPierreAncienne",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalleen_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne"
+    },
+    {
+      "name": "MuretenPierreAncienne",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mureten_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne"
+    },
+    {
+      "name": "CraftEscalierenPierreAncienne",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_escalieren_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreAncienne"
+    },
+    {
+      "name": "CraftDalleenPierreAncienne",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_dalleen_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreAncienne"
+    },
+    {
+      "name": "CraftMuretenPierreAncienne",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_mureten_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreAncienne"
+    },
+    {
+      "name": "TaillageDalleenRocheAncienne",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillage_dalleen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/RocheAncienne"
+    },
+    {
+      "name": "TaillagePierretailleeenRocheAncienne",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillage_pierretailleeen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTaille"
+    },
+    {
+      "name": "TaillageEscalierenPierreAncienne",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillage_escalieren_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreAncienne"
+    },
+    {
+      "name": "TaillageDalleenPierreAncienne",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillage_dalleen_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreAncienne"
+    },
+    {
+      "name": "TaillageMuretenPierreAncienne",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillage_mureten_pierre_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreAncienne"
+    },
+    {
+      "name": "EscalierenPierretailleeenRocheAncienne",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escalieren_pierretailleeen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee"
+    },
+    {
+      "name": "DalleenPierretailleeenRocheAncienne",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalleen_pierretailleeen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee"
+    },
+    {
+      "name": "MuretenPierretailleeenRocheAncienne",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mureten_pierretailleeen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee"
+    },
+    {
+      "name": "PierreAncienneMoussues",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Moussues"
+    },
+    {
+      "name": "EscalierenPierreAncienneMoussues",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escalieren_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Moussues"
+    },
+    {
+      "name": "DalleenPierreAncienneMoussues",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalleen_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Moussues"
+    },
+    {
+      "name": "MuretenPierreAncienneMoussues",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mureten_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Moussues"
+    },
+    {
+      "name": "CraftPierreAncienneMoussues",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreAncienneMoussues"
+    },
+    {
+      "name": "CraftEscalierenPierreAncienneMoussues",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_escalieren_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreAncienneMoussues"
+    },
+    {
+      "name": "CraftDalleenPierreAncienneMoussues",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_dalleen_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreAncienneMoussues"
+    },
+    {
+      "name": "CraftMuretenPierreAncienneMoussues",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_mureten_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreAncienneMoussues"
+    },
+    {
+      "name": "TaillageEscalierenPierreAncienneMoussues",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillage_escalieren_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreAncienneMoussues"
+    },
+    {
+      "name": "TaillageDalleenPierreAncienneMoussues",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillage_dalleen_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreAncienneMoussues"
+    },
+    {
+      "name": "TaillageMuretenPierreAncienneMoussues",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillage_mureten_pierre_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreAncienneMoussues"
+    },
+    {
+      "name": "CraftEscalierenPierretailleeenRocheAncienne",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_escalieren_pierretailleeen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreTaillee"
+    },
+    {
+      "name": "CraftDallenPierretailleeenRocheAncienne",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_dallen_pierretailleeen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreTaillee"
+    },
+    {
+      "name": "CraftMuretenPierretailleeenRocheAncienne",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_mureten_pierretailleeen_roche_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreTaillee"
+    },
+    {
+      "name": "TaillagesEscalierenPierretaillee",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_escalieren_pierretaillee",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTaille"
+    },
+    {
+      "name": "TaillagesEscalierenPierretaillee2",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_escalieren_pierretaillee_2",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTaille"
+    },
+    {
+      "name": "TaillagesDalleenPierretaillee",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_dalleen_pierretaillee",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTaille"
+    },
+    {
+      "name": "TaillagesDalleenPierretaillee2",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_dalleen_pierretaillee_2",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTaille"
+    },
+    {
+      "name": "TaillagesMuretenPierretaillee",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_mureten_pierretaillee",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTaille"
+    },
+    {
+      "name": "TaillagesMuretenPierretaillee2",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_mureten_pierretaillee_2",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTaille"
+    },
+    {
+      "name": "PierretailleeenRocheAncienneMoussues",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pierretailleeen_roche_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee/PierreTailleeMoussues"
+    },
+    {
+      "name": "EscalierenPierretailleeenRocheAncienneMoussues",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "escalieren_pierretailleeen_roche_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee/PierreTailleeMoussues"
+    },
+    {
+      "name": "DalleenPierretailleeenRocheAncienneMoussues",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dalleen_pierretailleeen_roche_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee/PierreTailleeMoussues"
+    },
+    {
+      "name": "MuretenPierretailleeenRocheAncienneMoussues",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mureten_pierretailleeen_roche_ancienne_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee/PierreTailleeMoussues"
+    },
+    {
+      "name": "CraftPierretailleMoussues",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_pierretaille_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierretailleeMoussues"
+    },
+    {
+      "name": "CraftEscalierenPierretailleeMoussues",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_escalieren_pierretaillee_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierretailleeMoussues"
+    },
+    {
+      "name": "CraftDalleenPierretailleeMoussues",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_dalleen_pierretaillee_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierretailleeMoussues"
+    },
+    {
+      "name": "CraftMuretenPierretailleeMoussues",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_mureten_pierretaillee_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierretailleeMoussues"
+    },
+    {
+      "name": "TaillagesEscalierenPierretailleeMoussues",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_escalieren_pierretaillee_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTailleeMoussues"
+    },
+    {
+      "name": "TaillagesDalleenPierretailleeMoussues",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_dalleen_pierretaillee_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTailleeMoussues"
+    },
+    {
+      "name": "TaillagesMuretenPierretailleeMoussues",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_mureten_pierretaillee_moussues",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTailleeMoussues"
+    },
+    {
+      "name": "PierreSculpteeAncienne",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pierre_sculptee_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee"
+    },
+    {
+      "name": "PierreTailleeCraqueleeAncienne",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pierre_taillee_craquelee_ancienne",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreTaillee"
+    },
+    {
+      "name": "CuissonPierreTailleeCraquelee",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuisson_pierre_taillee_craquelee",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Four"
+    },
+    {
+      "name": "CraftPierreSculptee",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_pierre_sculptee",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Table de craft/PierreTaillee"
+    },
+    {
+      "name": "TaillagesPierreSculptee",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "taillages_pierre_sculptee",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/Craft/Taillage/PierreTaille"
+    },
+    {
+      "name": "Atester",
+      "type": "tab",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "atester",
+      "path": "~/Onglet Creatif"
+    },
+    {
+      "name": "TankNiveau2",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_2",
+      "path": "~/Machine/Tank"
+    },
+    {
+      "name": "TankNiveau3",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_3",
+      "path": "~/Machine/Tank"
+    },
+    {
+      "name": "TankNiveau4",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_4",
+      "path": "~/Machine/Tank"
+    },
+    {
+      "name": "TankNiveau5",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_5",
+      "path": "~/Machine/Tank"
+    },
+    {
+      "name": "TankNiveau6",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_6",
+      "path": "~/Machine/Tank"
+    },
+    {
+      "name": "Pack_Pierre_AnciennePickaxe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_pickaxe",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "Pack_Pierre_AncienneAxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_axe",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "Pack_Pierre_AncienneSword",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_sword",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "Pack_Pierre_AncienneShovel",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_shovel",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "Pack_Pierre_AncienneHoe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_hoe",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "Pack_Pierre_AnciennePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_pickaxe_recipe",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "Pack_Pierre_AncienneAxeRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_axe_recipe",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "Pack_Pierre_AncienneSwordRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_sword_recipe",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "Pack_Pierre_AncienneShovelRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_shovel_recipe",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "Pack_Pierre_AncienneHoeRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_pierre_ancienne_hoe_recipe",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/PierreAncienne/Outils en Pierre Ancienne"
+    },
+    {
+      "name": "DetectWaterBucket",
+      "type": "procedure",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "detect_water_bucket",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "DetectBucket",
+      "type": "procedure",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "detect_bucket",
+      "metadata": {
+        "return_type": "logic",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "RemoveWaterBucket",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "remove_water_bucket",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "AddWaterBucket",
+      "type": "procedure",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "add_water_bucket",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "TankLorsDunClicDroitSurLeBloc",
+      "type": "procedure",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_lors_dun_clic_droit_sur_le_bloc",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "TankNiveau1LorsDunClicDroitSurLeBloc",
+      "type": "procedure",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_1_lors_dun_clic_droit_sur_le_bloc",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "TankNiveau2LorsDunClicDroitSurLeBloc",
+      "type": "procedure",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_2_lors_dun_clic_droit_sur_le_bloc",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "TankNiveau3LorsDunClicDroitSurLeBloc",
+      "type": "procedure",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_3_lors_dun_clic_droit_sur_le_bloc",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "TankNiveau4LorsDunClicDroitSurLeBloc",
+      "type": "procedure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_4_lors_dun_clic_droit_sur_le_bloc",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "TankNiveau5LorsDunClicDroitSurLeBloc",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_5_lors_dun_clic_droit_sur_le_bloc",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "TankNiveau6LorsDunClicDroitSurLeBloc",
+      "type": "procedure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tank_niveau_6_lors_dun_clic_droit_sur_le_bloc",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machine/Tank/Procedure"
+    },
+    {
+      "name": "Tanktest1",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tanktest_1",
+      "path": "~/Machine/Advanced_Tank"
+    },
+    {
+      "name": "Tankrempli",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tankrempli",
+      "path": "~/Machine/Advanced_Tank"
+    },
+    {
+      "name": "MineraisdeMithril",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisde_mithril",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdAdamantium",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisd_adamantium",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "MineraisdOnyx",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisd_onyx",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "RocheAncienneLoot",
+      "type": "loottable",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "roche_ancienne_loot",
+      "path": "~/Dimension/Dimension Dinosaures/Blocks/Roche ancienne/RocheAncienne"
+    },
+    {
+      "name": "CerisePlanks",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_planks",
+      "path": "~/Block"
+    },
+    {
+      "name": "CeriseWoodRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_wood_recipe",
+      "path": "~/Recette"
+    },
+    {
+      "name": "CerisePlanksRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_planks_recipe",
+      "path": "~/Recette"
+    },
+    {
+      "name": "CeriseSlab",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_slab",
+      "path": "~/Block"
+    },
+    {
+      "name": "CeriseFenceGate",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_fence_gate",
+      "path": "~/Block"
+    },
+    {
+      "name": "CeriseSlabRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_slab_recipe",
+      "path": "~/Recette"
+    },
+    {
+      "name": "CeriseStickRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_stick_recipe",
+      "path": "~/Recette"
+    },
+    {
+      "name": "CeriseLog",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_log",
+      "path": "~/Block"
+    },
+    {
+      "name": "CeriseFenceRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_fence_recipe",
+      "path": "~/Recette"
+    },
+    {
+      "name": "CeriseStairsRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_stairs_recipe",
+      "path": "~/Recette"
+    },
+    {
+      "name": "CeriseStairs",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_stairs",
+      "path": "~/Block"
+    },
+    {
+      "name": "CeriseWood",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_wood",
+      "path": "~/Block"
+    },
+    {
+      "name": "CeriseItemsTag",
+      "type": "tag",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_items_tag",
+      "path": "~/Block"
+    },
+    {
+      "name": "CeriseFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_fence_gate_recipe",
+      "path": "~/Recette"
+    },
+    {
+      "name": "CeriseFence",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_fence",
+      "path": "~/Block"
+    },
+    {
+      "name": "Fossile",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fossile",
+      "path": "~/Dimension/Dimension Dinosaures/Fossile"
+    },
+    {
+      "name": "Onyx",
+      "type": "item",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "onyx",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "Cuivre",
+      "type": "item",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuivre",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "Mithril",
+      "type": "item",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mithril",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "Adamantium",
+      "type": "item",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adamantium",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "Etain",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "etain",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "Uranium",
+      "type": "item",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uranium",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "Tanktest1MiseAJourDuTick",
+      "type": "procedure",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tanktest_1_mise_a_jour_du_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machine/Advanced_Tank"
+    },
+    {
+      "name": "TankrempliLave",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tankrempli_lave",
+      "path": "~/Machine/Advanced_Tank"
+    },
+    {
+      "name": "GuiAdvancedTank",
+      "type": "gui",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gui_advanced_tank",
+      "path": "~/Machine/Advanced_Tank"
+    },
+    {
+      "name": "Saphir",
+      "type": "item",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphir",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "BlockRubis",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_rubis",
+      "path": "~/Minerais/Blocks"
+    },
+    {
+      "name": "BlockSaphir",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_saphir",
+      "path": "~/Minerais/Blocks"
+    },
+    {
+      "name": "CraftBlockRubis",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_block_rubis",
+      "path": "~/Minerais/Blocks/Craft des blocks"
+    },
+    {
+      "name": "CraftBlockSaphir",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_block_saphir",
+      "path": "~/Minerais/Blocks/Craft des blocks"
+    },
+    {
+      "name": "CraftBlockCuivre",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_block_cuivre",
+      "path": "~/Minerais/Blocks/Craft des blocks"
+    },
+    {
+      "name": "BlockOnyx",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_onyx",
+      "path": "~/Minerais/Blocks"
+    },
+    {
+      "name": "CraftBlockOnyx",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_block_onyx",
+      "path": "~/Minerais/Blocks/Craft des blocks"
+    },
+    {
+      "name": "BucketCuivre",
+      "type": "item",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bucket_cuivre",
+      "path": "~/Item"
+    },
+    {
+      "name": "CraftBucketCuivre",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_bucket_cuivre",
+      "path": "~/Recette/Recette_Lingot"
+    },
+    {
+      "name": "BlockCuivre",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_cuivre",
+      "path": "~/Minerais/Blocks"
+    },
+    {
+      "name": "CuissonCuivre",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuisson_cuivre",
+      "path": "~/Minerais/Minerais brute/Cuissons des minerais"
+    },
+    {
+      "name": "CuissonEtain",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuisson_etain",
+      "path": "~/Minerais/Minerais brute/Cuissons des minerais"
+    },
+    {
+      "name": "CuissonMithril",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuisson_mithril",
+      "path": "~/Minerais/Minerais brute/Cuissons des minerais"
+    },
+    {
+      "name": "CuissonAdamantium",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuisson_adamantium",
+      "path": "~/Minerais/Minerais brute/Cuissons des minerais"
+    },
+    {
+      "name": "Pack_CuivrePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_cuivre_pickaxe_recipe",
+      "path": "~/Armures_Outils/Cuivre/Craft"
+    },
+    {
+      "name": "Pack_CuivreAxeRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_cuivre_axe_recipe",
+      "path": "~/Armures_Outils/Cuivre/Craft"
+    },
+    {
+      "name": "Pack_CuivreSwordRecipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_cuivre_sword_recipe",
+      "path": "~/Armures_Outils/Cuivre/Craft"
+    },
+    {
+      "name": "Pack_CuivreShovelRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_cuivre_shovel_recipe",
+      "path": "~/Armures_Outils/Cuivre/Craft"
+    },
+    {
+      "name": "Pack_CuivreHoeRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_cuivre_hoe_recipe",
+      "path": "~/Armures_Outils/Cuivre/Craft"
+    },
+    {
+      "name": "Pack_EtainPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_etain_pickaxe_recipe",
+      "path": "~/Armures_Outils/Etain/Craft"
+    },
+    {
+      "name": "Pack_EtainAxeRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_etain_axe_recipe",
+      "path": "~/Armures_Outils/Etain/Craft"
+    },
+    {
+      "name": "Pack_EtainSwordRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_etain_sword_recipe",
+      "path": "~/Armures_Outils/Etain/Craft"
+    },
+    {
+      "name": "Pack_EtainShovelRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_etain_shovel_recipe",
+      "path": "~/Armures_Outils/Etain/Craft"
+    },
+    {
+      "name": "Pack_EtainHoeRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_etain_hoe_recipe",
+      "path": "~/Armures_Outils/Etain/Craft"
+    },
+    {
+      "name": "Pack_MithrilPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_pickaxe_recipe",
+      "path": "~/Armures_Outils/Mithril/Craft"
+    },
+    {
+      "name": "Pack_MithrilAxeRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_axe_recipe",
+      "path": "~/Armures_Outils/Mithril/Craft"
+    },
+    {
+      "name": "Pack_MithrilSwordRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_sword_recipe",
+      "path": "~/Armures_Outils/Mithril/Craft"
+    },
+    {
+      "name": "Pack_MithrilShovelRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_shovel_recipe",
+      "path": "~/Armures_Outils/Mithril/Craft"
+    },
+    {
+      "name": "Pack_MithrilHoeRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_hoe_recipe",
+      "path": "~/Armures_Outils/Mithril/Craft"
+    },
+    {
+      "name": "Pack_AdamantiumPickaxe",
+      "type": "tool",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_pickaxe",
+      "path": "~/Armures_Outils/Adamantium"
+    },
+    {
+      "name": "Pack_AdamantiumAxe",
+      "type": "tool",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_axe",
+      "path": "~/Armures_Outils/Adamantium"
+    },
+    {
+      "name": "Pack_AdamantiumSword",
+      "type": "tool",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_sword",
+      "path": "~/Armures_Outils/Adamantium"
+    },
+    {
+      "name": "Pack_AdamantiumShovel",
+      "type": "tool",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_shovel",
+      "path": "~/Armures_Outils/Adamantium"
+    },
+    {
+      "name": "Pack_AdamantiumHoe",
+      "type": "tool",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_hoe",
+      "path": "~/Armures_Outils/Adamantium"
+    },
+    {
+      "name": "Pack_AdamantiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_pickaxe_recipe",
+      "path": "~/Armures_Outils/Adamantium/Craft"
+    },
+    {
+      "name": "Pack_AdamantiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_axe_recipe",
+      "path": "~/Armures_Outils/Adamantium/Craft"
+    },
+    {
+      "name": "Pack_AdamantiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_sword_recipe",
+      "path": "~/Armures_Outils/Adamantium/Craft"
+    },
+    {
+      "name": "Pack_AdamantiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_shovel_recipe",
+      "path": "~/Armures_Outils/Adamantium/Craft"
+    },
+    {
+      "name": "Pack_AdamantiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_hoe_recipe",
+      "path": "~/Armures_Outils/Adamantium/Craft"
+    },
+    {
+      "name": "Pack_OnyxPickaxe",
+      "type": "tool",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_pickaxe",
+      "path": "~/Armures_Outils/Onyx"
+    },
+    {
+      "name": "Pack_OnyxAxe",
+      "type": "tool",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_axe",
+      "path": "~/Armures_Outils/Onyx"
+    },
+    {
+      "name": "Pack_OnyxSword",
+      "type": "tool",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_sword",
+      "path": "~/Armures_Outils/Onyx"
+    },
+    {
+      "name": "Pack_OnyxShovel",
+      "type": "tool",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_shovel",
+      "path": "~/Armures_Outils/Onyx"
+    },
+    {
+      "name": "Pack_OnyxHoe",
+      "type": "tool",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_hoe",
+      "path": "~/Armures_Outils/Onyx"
+    },
+    {
+      "name": "Pack_OnyxPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_pickaxe_recipe",
+      "path": "~/Armures_Outils/Onyx/Craft"
+    },
+    {
+      "name": "Pack_OnyxAxeRecipe",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_axe_recipe",
+      "path": "~/Armures_Outils/Onyx/Craft"
+    },
+    {
+      "name": "Pack_OnyxSwordRecipe",
+      "type": "recipe",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_sword_recipe",
+      "path": "~/Armures_Outils/Onyx/Craft"
+    },
+    {
+      "name": "Pack_OnyxShovelRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_shovel_recipe",
+      "path": "~/Armures_Outils/Onyx/Craft"
+    },
+    {
+      "name": "Pack_OnyxHoeRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_hoe_recipe",
+      "path": "~/Armures_Outils/Onyx/Craft"
+    },
+    {
+      "name": "Pack_CuivreArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_cuivre_armor_helmet_recipe",
+      "path": "~/Armures_Outils/Cuivre/Craft"
+    },
+    {
+      "name": "Pack_CuivreArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_cuivre_armor_body_recipe",
+      "path": "~/Armures_Outils/Cuivre/Craft"
+    },
+    {
+      "name": "Pack_CuivreArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_cuivre_armor_leggings_recipe",
+      "path": "~/Armures_Outils/Cuivre/Craft"
+    },
+    {
+      "name": "Pack_CuivreArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_cuivre_armor_boots_recipe",
+      "path": "~/Armures_Outils/Cuivre/Craft"
+    },
+    {
+      "name": "Pack_EtainArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_etain_armor_helmet_recipe",
+      "path": "~/Armures_Outils/Etain/Craft"
+    },
+    {
+      "name": "Pack_EtainArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_etain_armor_body_recipe",
+      "path": "~/Armures_Outils/Etain/Craft"
+    },
+    {
+      "name": "Pack_EtainArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_etain_armor_leggings_recipe",
+      "path": "~/Armures_Outils/Etain/Craft"
+    },
+    {
+      "name": "Pack_EtainArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_etain_armor_boots_recipe",
+      "path": "~/Armures_Outils/Etain/Craft"
+    },
+    {
+      "name": "Pack_MithrilArmor",
+      "type": "armor",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armures_Outils/Mithril"
+    },
+    {
+      "name": "Pack_MithrilArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_armor_helmet_recipe",
+      "path": "~/Armures_Outils/Mithril/Craft"
+    },
+    {
+      "name": "Pack_MithrilArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_armor_body_recipe",
+      "path": "~/Armures_Outils/Mithril/Craft"
+    },
+    {
+      "name": "Pack_MithrilArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_armor_leggings_recipe",
+      "path": "~/Armures_Outils/Mithril/Craft"
+    },
+    {
+      "name": "Pack_MithrilArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_mithril_armor_boots_recipe",
+      "path": "~/Armures_Outils/Mithril/Craft"
+    },
+    {
+      "name": "Pack_AdamantiumArmor",
+      "type": "armor",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armures_Outils/Adamantium"
+    },
+    {
+      "name": "Pack_AdamantiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_armor_helmet_recipe",
+      "path": "~/Armures_Outils/Adamantium/Craft"
+    },
+    {
+      "name": "Pack_AdamantiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_armor_body_recipe",
+      "path": "~/Armures_Outils/Adamantium/Craft"
+    },
+    {
+      "name": "Pack_AdamantiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_armor_leggings_recipe",
+      "path": "~/Armures_Outils/Adamantium/Craft"
+    },
+    {
+      "name": "Pack_AdamantiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_adamantium_armor_boots_recipe",
+      "path": "~/Armures_Outils/Adamantium/Craft"
+    },
+    {
+      "name": "Pack_OnyxArmor",
+      "type": "armor",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armures_Outils/Onyx"
+    },
+    {
+      "name": "Pack_OnyxArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_armor_helmet_recipe",
+      "path": "~/Armures_Outils/Onyx/Craft"
+    },
+    {
+      "name": "Pack_OnyxArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_armor_body_recipe",
+      "path": "~/Armures_Outils/Onyx/Craft"
+    },
+    {
+      "name": "Pack_OnyxArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_armor_leggings_recipe",
+      "path": "~/Armures_Outils/Onyx/Craft"
+    },
+    {
+      "name": "Pack_OnyxArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_onyx_armor_boots_recipe",
+      "path": "~/Armures_Outils/Onyx/Craft"
+    },
+    {
+      "name": "MineraisMod",
+      "type": "tab",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minerais_mod",
+      "path": "~/Onglet Creatif"
+    },
+    {
+      "name": "AllosaurusCrane",
+      "type": "item",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allosaurus_crane",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Alllosaurus/Loot"
+    },
+    {
+      "name": "ItemDinosaure",
+      "type": "tab",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_dinosaure",
+      "path": "~/Onglet Creatif"
+    },
+    {
+      "name": "AllosaurusJambe",
+      "type": "item",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allosaurus_jambe",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Alllosaurus/Loot"
+    },
+    {
+      "name": "AllosaurusBras",
+      "type": "item",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allosaurus_bras",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Alllosaurus/Loot"
+    },
+    {
+      "name": "AllosaurusPied",
+      "type": "item",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allosaurus_pied",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Alllosaurus/Loot"
+    },
+    {
+      "name": "AllosaurusCageThoracique",
+      "type": "item",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allosaurus_cage_thoracique",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Alllosaurus/Loot"
+    },
+    {
+      "name": "AllosaurusVertebres",
+      "type": "item",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allosaurus_vertebres",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Alllosaurus/Loot"
+    },
+    {
+      "name": "AllosaurusGriffe",
+      "type": "item",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allosaurus_griffe",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Alllosaurus/Loot"
+    },
+    {
+      "name": "AllosaurusViande",
+      "type": "food",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allosaurus_viande",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Alllosaurus/Loot"
+    },
+    {
+      "name": "Allosauruscuit",
+      "type": "food",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "allosauruscuit",
+      "path": "~/Dimension/Dimension Dinosaures/Nourriture"
+    },
+    {
+      "name": "CuissonsViandeAllosaurus",
+      "type": "recipe",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuissons_viande_allosaurus",
+      "path": "~/Dimension/Dimension Dinosaures/Nourriture/Cuissons"
+    },
+    {
+      "name": "AnkylosaurusCrane",
+      "type": "item",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ankylosaurus_crane",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Ankylosaurus/Loot"
+    },
+    {
+      "name": "AnkylosaurusJambe",
+      "type": "item",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ankylosaurus_jambe",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Ankylosaurus/Loot"
+    },
+    {
+      "name": "AnkylosaurusBras",
+      "type": "item",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ankylosaurus_bras",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Ankylosaurus/Loot"
+    },
+    {
+      "name": "AnkylosaurusPied",
+      "type": "item",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ankylosaurus_pied",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Ankylosaurus/Loot"
+    },
+    {
+      "name": "Ankylosauruscagethoracique",
+      "type": "item",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ankylosauruscagethoracique",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Ankylosaurus/Loot"
+    },
+    {
+      "name": "Ankylosaurusvertebres",
+      "type": "item",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ankylosaurusvertebres",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Ankylosaurus/Loot"
+    },
+    {
+      "name": "AnkylosaureQueue",
+      "type": "item",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ankylosaure_queue",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Ankylosaurus/Loot"
+    },
+    {
+      "name": "AnkylosaureViande",
+      "type": "food",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ankylosaure_viande",
+      "path": "~/Dimension/Dimension Dinosaures/Dinosaure/Ankylosaurus/Loot"
+    },
+    {
+      "name": "CuissonsViandeAnkylosaure",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuissons_viande_ankylosaure",
+      "path": "~/Dimension/Dimension Dinosaures/Nourriture/Cuissons"
+    },
+    {
+      "name": "Ankylosauruscuit",
+      "type": "food",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ankylosauruscuit",
+      "path": "~/Dimension/Dimension Dinosaures/Nourriture"
+    },
+    {
+      "name": "PiocheCuivre",
+      "type": "tool",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pioche_cuivre",
+      "path": "~/Armures_Outils/Cuivre"
+    },
+    {
+      "name": "HacheCuivre",
+      "type": "tool",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hache_cuivre",
+      "path": "~/Armures_Outils/Cuivre"
+    },
+    {
+      "name": "EpeeCuivre",
+      "type": "tool",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epee_cuivre",
+      "path": "~/Armures_Outils/Cuivre"
+    },
+    {
+      "name": "PelleCuivre",
+      "type": "tool",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelle_cuivre",
+      "path": "~/Armures_Outils/Cuivre"
+    },
+    {
+      "name": "HoueCuivre",
+      "type": "tool",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "houe_cuivre",
+      "path": "~/Armures_Outils/Cuivre"
+    },
+    {
+      "name": "ArmureCuivre",
+      "type": "armor",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armure_cuivre",
+      "metadata": {
+        "eh": true,
+        "eb": true,
+        "ec": true,
+        "el": true
+      },
+      "path": "~/Armures_Outils/Cuivre"
+    },
+    {
+      "name": "PiocheEtain",
+      "type": "tool",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pioche_etain",
+      "path": "~/Armures_Outils/Etain"
+    },
+    {
+      "name": "HacheEtain",
+      "type": "tool",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hache_etain",
+      "path": "~/Armures_Outils/Etain"
+    },
+    {
+      "name": "EpeeEtain",
+      "type": "tool",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epee_etain",
+      "path": "~/Armures_Outils/Etain"
+    },
+    {
+      "name": "PelleEtain",
+      "type": "tool",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelle_etain",
+      "path": "~/Armures_Outils/Etain"
+    },
+    {
+      "name": "HoueEtain",
+      "type": "tool",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "houe_etain",
+      "path": "~/Armures_Outils/Etain"
+    },
+    {
+      "name": "ArmureEtain",
+      "type": "armor",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armure_etain",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armures_Outils/Etain"
+    },
+    {
+      "name": "PiocheMithril",
+      "type": "tool",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pioche_mithril",
+      "path": "~/Armures_Outils/Mithril"
+    },
+    {
+      "name": "HacheMithril",
+      "type": "tool",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hache_mithril",
+      "path": "~/Armures_Outils/Mithril"
+    },
+    {
+      "name": "EpeeMithril",
+      "type": "tool",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epee_mithril",
+      "path": "~/Armures_Outils/Mithril"
+    },
+    {
+      "name": "PelleMithril",
+      "type": "tool",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pelle_mithril",
+      "path": "~/Armures_Outils/Mithril"
+    },
+    {
+      "name": "HoueMithril",
+      "type": "tool",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "houe_mithril",
+      "path": "~/Armures_Outils/Mithril"
+    },
+    {
+      "name": "Nickel",
+      "type": "item",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "NickelPulverise",
+      "type": "item",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_pulverise",
+      "path": "~/Minerais/Lingot pulverise"
+    },
+    {
+      "name": "TanktestChangementdeblock",
+      "type": "procedure",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tanktest_changementdeblock",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Machine/Advanced_Tank"
+    },
+    {
+      "name": "CeriseLeaves",
+      "type": "block",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cerise_leaves",
+      "path": "~/Block"
+    },
+    {
+      "name": "TBCuivre",
+      "type": "loottable",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tb_cuivre",
+      "path": "~/Minerais/Minerais brute/Table de butin"
+    },
+    {
+      "name": "TBOnyx",
+      "type": "loottable",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tb_onyx",
+      "path": "~/Minerais/Minerais brute/Table de butin"
+    },
+    {
+      "name": "TBSaphir",
+      "type": "loottable",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tb_saphir",
+      "path": "~/Minerais/Minerais brute/Table de butin"
+    },
+    {
+      "name": "TBRubis",
+      "type": "loottable",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tb_rubis",
+      "path": "~/Minerais/Minerais brute/Table de butin"
+    },
+    {
+      "name": "TBAdamantium",
+      "type": "loottable",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tb_adamantium",
+      "path": "~/Minerais/Minerais brute/Table de butin"
+    },
+    {
+      "name": "TBEtain",
+      "type": "loottable",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tb_etain",
+      "path": "~/Minerais/Minerais brute/Table de butin"
+    },
+    {
+      "name": "TBMithril",
+      "type": "loottable",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tb_mithril",
+      "path": "~/Minerais/Minerais brute/Table de butin"
+    },
+    {
+      "name": "CuissonRubis",
+      "type": "recipe",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuisson_rubis",
+      "path": "~/Minerais/Minerais brute/Cuissons des minerais"
+    },
+    {
+      "name": "CuissonSaphir",
+      "type": "recipe",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuisson_saphir",
+      "path": "~/Minerais/Minerais brute/Cuissons des minerais"
+    },
+    {
+      "name": "CraftBlockEtain",
+      "type": "recipe",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_block_etain",
+      "path": "~/Minerais/Blocks/Craft des blocks"
+    },
+    {
+      "name": "BlockEtain",
+      "type": "block",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_etain",
+      "path": "~/Minerais/Blocks"
+    },
+    {
+      "name": "BlockAdamantium",
+      "type": "block",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_adamantium",
+      "path": "~/Minerais/Blocks"
+    },
+    {
+      "name": "CraftBlockAdamantium",
+      "type": "recipe",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_block_adamantium",
+      "path": "~/Minerais/Blocks/Craft des blocks"
+    },
+    {
+      "name": "TBAluminium",
+      "type": "loottable",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tb_aluminium",
+      "path": "~/Minerais/Minerais brute/Table de butin"
+    },
+    {
+      "name": "Aluminium",
+      "type": "item",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminium",
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "CuissonAluminium",
+      "type": "recipe",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cuisson_aluminium",
+      "path": "~/Minerais/Minerais brute/Cuissons des minerais"
+    },
+    {
+      "name": "Mineraisduranium",
+      "type": "block",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mineraisduranium",
+      "path": "~/Minerais/Minerais brute"
+    },
+    {
+      "name": "ProcedureUranium",
+      "type": "procedure",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "procedure_uranium",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Minerais/Lingot"
+    },
+    {
+      "name": "BlockUranium",
+      "type": "block",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_uranium",
+      "path": "~/Minerais/Blocks"
+    },
+    {
+      "name": "CraftBlockUranium",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_block_uranium",
+      "path": "~/Minerais/Blocks/Craft des blocks"
+    },
+    {
+      "name": "BlockMithril",
+      "type": "block",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_mithril",
+      "path": "~/Minerais/Blocks"
+    },
+    {
+      "name": "CraftBlockMithril",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_block_mithril",
+      "path": "~/Minerais/Blocks/Craft des blocks"
+    },
+    {
+      "name": "CraftBlockAluminium",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_block_aluminium",
+      "path": "~/Minerais/Blocks/Craft des blocks"
+    },
+    {
+      "name": "BlockAluminium",
+      "type": "block",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_aluminium",
+      "path": "~/Minerais/Blocks"
+    },
+    {
+      "name": "Pack_RubisPickaxe",
+      "type": "tool",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_pickaxe",
+      "path": "~/Armures_Outils/Rubis"
+    },
+    {
+      "name": "Pack_RubisAxe",
+      "type": "tool",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_axe",
+      "path": "~/Armures_Outils/Rubis"
+    },
+    {
+      "name": "Pack_RubisSword",
+      "type": "tool",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_sword",
+      "path": "~/Armures_Outils/Rubis"
+    },
+    {
+      "name": "Pack_RubisShovel",
+      "type": "tool",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_shovel",
+      "path": "~/Armures_Outils/Rubis"
+    },
+    {
+      "name": "Pack_RubisHoe",
+      "type": "tool",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_hoe",
+      "path": "~/Armures_Outils/Rubis"
+    },
+    {
+      "name": "Pack_RubisPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_pickaxe_recipe",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "Pack_RubisAxeRecipe",
+      "type": "recipe",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_axe_recipe",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "Pack_RubisSwordRecipe",
+      "type": "recipe",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_sword_recipe",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "Pack_RubisShovelRecipe",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_shovel_recipe",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "Pack_RubisHoeRecipe",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_hoe_recipe",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "Pack_RubisArmor",
+      "type": "armor",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armures_Outils/Rubis"
+    },
+    {
+      "name": "Pack_RubisArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_armor_helmet_recipe",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "Pack_RubisArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_armor_body_recipe",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "Pack_RubisArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_armor_leggings_recipe",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "Pack_RubisArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pack_rubis_armor_boots_recipe",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "Test",
+      "type": "item",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test"
+    },
+    {
+      "name": "TestOre",
+      "type": "block",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_ore"
+    },
+    {
+      "name": "TestBlock",
+      "type": "block",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_block"
+    },
+    {
+      "name": "TestOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_ore_block_recipe"
+    },
+    {
+      "name": "TestBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_block_ore_recipe"
+    },
+    {
+      "name": "TestOreSmelting",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_ore_smelting"
+    },
+    {
+      "name": "RubisStick",
+      "type": "item",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubis_stick",
+      "path": "~/Armures_Outils/Rubis"
+    },
+    {
+      "name": "CraftRubisstick",
+      "type": "recipe",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_rubisstick",
+      "path": "~/Armures_Outils/Rubis/Craft"
+    },
+    {
+      "name": "ClicDroitSeauCuivre",
+      "type": "procedure",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clic_droit_seau_cuivre",
+      "metadata": {
+        "dependencies": []
+      },
+      "path": "~/Item"
+    },
+    {
+      "name": "WaterBucketCuivre",
+      "type": "item",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_bucket_cuivre",
+      "path": "~/Item"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mon_mod.allosaurus_jambe": "Os de la jambe d\u0027allosaurus",
+      "item.mon_mod.houe_etain": "Houe en Etain",
+      "item.mon_mod.pack_rubis_hoe": "Houe en Rubis",
+      "item.mon_mod.pack_onyx_armor_helmet": "Casque en Onyx",
+      "block.mon_mod.pierre_ancienne_moussues": "Pierre Ancienne Moussues",
+      "block.mon_mod.mineraisde_plomb": "Mineraisde de plomb",
+      "item.mon_mod.armure_etain_chestplate": "Plastron en Etain",
+      "block.mon_mod.mineraisde_rubis": "Minerais de Rubis",
+      "item.mon_mod.pelle_cuivre": "Pelle en Cuivre",
+      "item.mon_mod.houe_cuivre": "Houe en Cuivre",
+      "item.mon_mod.pack_adamantium_armor_helmet": "Casque en Adamantium",
+      "block.mon_mod.escalieren_pierre_ancienne_moussues": "Escalier en Pierre Ancienne Moussues",
+      "item.mon_mod.pack_rubis_pickaxe": "Pioche en Rubis",
+      "block.mon_mod.mineraisde_platine": "Mineraisde de platine",
+      "item.mon_mod.saphir": "Saphir",
+      "block.mon_mod.mineraisde_zinc": "Mineraisde de zinc",
+      "item.mon_mod.ankylosaure_viande": "Ankylosaure Viande",
+      "block.mon_mod.block_cuivre": "Block de Cuivre",
+      "item.mon_mod.pack_pierre_ancienne_pickaxe": "Pack_Pierre_Ancienne Pickaxe",
+      "block.mon_mod.mureten_pierre_ancienne_moussues": "Murret en Pierre Ancienne Moussues",
+      "item.mon_mod.armure_cuivre_boots": "Bottes en Cuivre",
+      "item.mon_mod.mithril": "Lingot de Mithril",
+      "block.mon_mod.fossile": "Fossile",
+      "item.mon_mod.pack_onyx_shovel": "Pelle en Onyx",
+      "item.mon_mod.armure_cuivre_chestplate": "Plastron en Cuivre",
+      "item.mon_mod.pack_mithril_armor_chestplate": "Plastron en Mithril",
+      "item.mon_mod.armure_cuivre_helmet": "Casque en Cuivre",
+      "block.mon_mod.cerise_planks": "Cerise Planks",
+      "item.mon_mod.pack_adamantium_armor_chestplate": "Plastron en Adamantium",
+      "block.mon_mod.minerai_test": "Mineraisde Rubis",
+      "item.mon_mod.pack_onyx_armor_chestplate": "Plastron en Onyx",
+      "block.mon_mod.pierre_sculptee_ancienne": "Pierre Sculptee Ancienne",
+      "item.mon_mod.pioche_mithril": "Pioche en Mithril",
+      "block.mon_mod.cerise_wood": "Cerise Wood",
+      "item.mon_mod.ankylosaurus_crane": "Crane d\u0027ankylosaurus",
+      "block.mon_mod.testfsefsecc": "Testfsefsecc",
+      "item.mon_mod.pack_rubis_axe": "Hache en Rubis",
+      "item.mon_mod.allosaurus_pied": "Pied d\u0027allosaurus",
+      "block.mon_mod.mineraisde_cobalt": "Mineraisde de cobalt",
+      "item.mon_mod.aluminium": "Lingot d\u0027Aluminium",
+      "block.mon_mod.block_mithril": "Block de Mithril",
+      "item.mon_mod.pack_rubis_armor_leggings": "Jambieres en Rubis",
+      "block.mon_mod.tanktest_1": "Advanced_Tank",
+      "item.mon_mod.pack_adamantium_sword": "Epee en Adamantium",
+      "item.mon_mod.rubis": "Rubis",
+      "block.mon_mod.cerise_fence": "Cerise Fence",
+      "item.mon_mod.pack_onyx_sword": "Epee en Onyx",
+      "item.mon_mod.pioche_etain": "Pioche en Etain",
+      "item.mon_mod.pack_adamantium_axe": "Hache en Adamantium",
+      "item.mon_mod.hache_cuivre": "Hache en Cuivre",
+      "block.mon_mod.mureten_pierretailleeen_roche_ancienne_moussues": "Muret en Pierre taillee en Roche Ancienne Moussues",
+      "item.mon_mod.pack_adamantium_shovel": "Pelle en Adamantium",
+      "item.mon_mod.uranium": "Lingot d\u0027Uranium",
+      "item.mon_mod.ankylosaurusvertebres": "Vertebres d\u0027ankylosaurus",
+      "block.mon_mod.test_ore": "Test Ore",
+      "item.mon_mod.pelle_mithril": "Pelle en Mithril",
+      "block.mon_mod.pierretailleeen_roche_ancienne_moussues": "Pierre taillee en Roche Ancienne Moussues",
+      "item.mon_mod.pack_rubis_armor_chestplate": "Plastron en Rubis",
+      "block.mon_mod.test_block": "Block of Test",
+      "block.mon_mod.tank": "Tank",
+      "item.mon_mod.onyx": "Onyx",
+      "item.mon_mod.pack_onyx_armor_boots": "Bottes en Onyx",
+      "item.mon_mod.pack_adamantium_pickaxe": "Pioche en Adamantium",
+      "item.mon_mod.water_bucket_cuivre": "Water Bucket Cuivre",
+      "block.mon_mod.escalieren_pierretailleeen_roche_ancienne": "Escalier en Pierre taillee en Roche Ancienne",
+      "block.mon_mod.kk": "Kk",
+      "block.mon_mod.tank_niveau_1": "Tank",
+      "block.mon_mod.mineraisd_argent": "Mineraisde d\u0027argent",
+      "block.mon_mod.tank_niveau_3": "Tank",
+      "block.mon_mod.block_etain": "Block d\u0027Etain",
+      "block.mon_mod.tank_niveau_2": "Tank",
+      "itemGroup.tabminerais_mod": "Minerais Mod",
+      "block.mon_mod.tank_niveau_5": "Tank",
+      "block.mon_mod.tank_niveau_4": "Tank",
+      "item.mon_mod.hache_mithril": "Hache en Mithril",
+      "block.mon_mod.tank_niveau_6": "Tank",
+      "itemGroup.tabblock_dinosaure": "Block Dinosaure",
+      "item.mon_mod.pack_mithril_armor_helmet": "Casque en Mithril",
+      "item.mon_mod.epee_mithril": "Épée en Mithril",
+      "item.mon_mod.pack_pierre_ancienne_shovel": "Pack_Pierre_Ancienne Shovel",
+      "item.mon_mod.armure_etain_leggings": "Jambières en Etain",
+      "item.mon_mod.pack_onyx_axe": "Hache en Onyx",
+      "item.mon_mod.pack_rubis_armor_helmet": "Casque en Rubis",
+      "item.mon_mod.pack_adamantium_hoe": "Houe en Adamantium",
+      "item.mon_mod.pack_onyx_armor_leggings": "Jambieres en Onyx",
+      "item.mon_mod.armure_cuivre_leggings": "Jambiere en Cuivre",
+      "item.mon_mod.houe_mithril": "Houe en Mithril",
+      "block.mon_mod.mureten_pierre_ancienne": "Muret en Pierre Ancienne",
+      "block.mon_mod.tankrempli": "Advenced_Tank_Rempli",
+      "itemGroup.tabitem_dinosaure": "Item Dinosaure",
+      "block.mon_mod.block_onyx": "Block d\u0027Onyx",
+      "item.mon_mod.ankylosaurus_jambe": "Os de la jambe d\u0027ankylosaurus",
+      "block.mon_mod.cerise_fence_gate": "Cerise Fence Gate",
+      "item.mon_mod.ankylosaurus_pied": "Pied d\u0027ankylosaurus",
+      "block.mon_mod.tankrempli_lave": "Advenced_Tank_Rempli",
+      "block.mon_mod.cerise_stairs": "Cerise Stairs",
+      "item.mon_mod.pack_rubis_shovel": "Pelles en Rubis",
+      "block.mon_mod.dalleen_pierretailleeen_roche_ancienne_moussues": "Dalle en Pierre taillee en Roche Ancienne Moussues",
+      "block.mon_mod.mineraisduranium": "Minerais d\u0027uranium",
+      "block.mon_mod.escalieren_roche_ancienne": "Escalier en Roche ancienne",
+      "item.mon_mod.allosauruscuit": "Allosauruscuit",
+      "block.mon_mod.escalieren_pierretailleeen_roche_ancienne_moussues": "Escalier en Pierre taillee en Roche Ancienne Moussues",
+      "item.mon_mod.hache_etain": "Hache en Etain",
+      "item.mon_mod.ankylosauruscuit": "Ankylosaurecuit",
+      "block.mon_mod.pierre_ancienne": "Pierre Ancienne",
+      "item.mon_mod.allosaurus_crane": "Crane d\u0027allosaurus",
+      "item.mon_mod.armure_etain_helmet": "Casque en Etain",
+      "block.mon_mod.mureten_pierretailleeen_roche_ancienne": "Muret en Pierre taillee en Roche Ancienne",
+      "item.mon_mod.adamantium": "Lingot d\u0027Adamantium",
+      "block.mon_mod.mineraisd_etain": "Minerais d\u0027etain",
+      "item.mon_mod.bucket_cuivre": "Seau en cuivre",
+      "item.mon_mod.pack_adamantium_armor_boots": "Bottes en Adamantium",
+      "block.mon_mod.dalleen_pierre_ancienne_moussues": "Dalle en Pierre Ancienne Moussues",
+      "item.mon_mod.pack_pierre_ancienne_hoe": "Pack_Pierre_Ancienne Hoe",
+      "block.mon_mod.block_aluminium": "Block d\u0027Aluminium",
+      "item.mon_mod.cuivre": "Lingot de Cuivre",
+      "block.mon_mod.dalleen_pierre_ancienne": "Dalle en Pierre Ancienne",
+      "block.mon_mod.cerise_leaves": "Cerise Leaves",
+      "block.mon_mod.mineraisde_mithril": "Minerais de mithril",
+      "item.mon_mod.pack_onyx_hoe": "Houe en Onyx",
+      "block.mon_mod.cerise_log": "Cerise Log",
+      "item.mon_mod.epee_cuivre": "Épée en Cuivre",
+      "block.mon_mod.dalleen_pierretailleeen_roche_ancienne": "Dalle en Pierre taillee en Roche Ancienne",
+      "item.mon_mod.allosaurus_viande": "Viande d\u0027allosaurus",
+      "block.mon_mod.block_uranium": "Block d\u0027Uranium",
+      "block.mon_mod.mineraisd_adamantium": "Minerais d\u0027adamantium",
+      "block.mon_mod.rocheancienne": "Roche ancienne",
+      "block.mon_mod.block_rubis": "Block de Rubis",
+      "block.mon_mod.mineraisde_cuivre": "Minerais de Cuivre",
+      "block.mon_mod.escalieren_pierre_ancienne": "Escalier en Pierre Ancienne",
+      "block.mon_mod.block_adamantium": "Block d\u0027Adamantium",
+      "item.mon_mod.ankylosauruscagethoracique": "Cage thoracique d\u0027ankylosaurus",
+      "item.mon_mod.ankylosaure_queue": "Queue d\u0027ankylosaure",
+      "block.mon_mod.cerise_slab": "Cerise Slab",
+      "block.mon_mod.mineraisd_onyx": "Minerais d\u0027onyx",
+      "block.mon_mod.pierre_taillee_craquelee_ancienne": "Pierre taillee Craquelee Ancienne",
+      "block.mon_mod.block_saphir": "Block de Saphir",
+      "item.mon_mod.pack_mithril_armor_boots": "Bottes en Mithril",
+      "item.mon_mod.pelle_etain": "Pelle en Etain",
+      "item.mon_mod.nickel_pulverise": "Nickel Pulvérisé",
+      "block.mon_mod.mineraisde_saphir": "Minerais de saphir",
+      "item.mon_mod.allosaurus_cage_thoracique": "Cage Thoracique d\u0027allosaurus",
+      "item.mon_mod.ankylosaurus_bras": "Os du bras d\u0027ankylosaurus",
+      "item.mon_mod.etain": "Lingot d\u0027Etain",
+      "item.mon_mod.pack_pierre_ancienne_axe": "Pack_Pierre_Ancienne Axe",
+      "item.mon_mod.armure_etain_boots": "Bottes en Etain",
+      "item.mon_mod.pack_rubis_armor_boots": "Bottes en Rubis",
+      "block.mon_mod.mineraisd_aluminium": "Mineraisde d\u0027aluminium",
+      "item.mon_mod.allosaurus_bras": "Os du bras d\u0027allosaurus",
+      "item.mon_mod.pioche_cuivre": "Pioche en Cuivre",
+      "block.mon_mod.dalleen_roche_ancienne": "Dalle en Roche ancienne",
+      "item.mon_mod.epee_etain": "Epee en Etain",
+      "item.mon_mod.nickel": "Lingot de Nickel",
+      "item.mon_mod.pack_rubis_sword": "Epee en Rubis",
+      "item.mon_mod.test": "Test",
+      "item.mon_mod.pack_adamantium_armor_leggings": "Jambieres en Adamantium",
+      "item.mon_mod.allosaurus_vertebres": "Vertebres d\u0027allosaurus ",
+      "item.mon_mod.pack_pierre_ancienne_sword": "Pack_Pierre_Ancienne Sword",
+      "itemGroup.tabatester": "A tester",
+      "item.mon_mod.pack_mithril_armor_leggings": "Jambières en Mithril",
+      "item.mon_mod.pack_onyx_pickaxe": "Pioche en Onyx",
+      "item.mon_mod.allosaurus_griffe": "Griffe d\u0027allosaurus",
+      "item.mon_mod.rubis_stick": "Baton en Rubis",
+      "block.mon_mod.pierretailleeen_roche_ancienne": "Pierre taillee en Roche Ancienne"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Minerais",
+        "children": [
+          {
+            "name": "Blocks",
+            "children": [
+              {
+                "name": "Craft des blocks",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Lingot pulverise",
+            "children": []
+          },
+          {
+            "name": "Lingot",
+            "children": []
+          },
+          {
+            "name": "Minerais brute",
+            "children": [
+              {
+                "name": "Table de butin",
+                "children": []
+              },
+              {
+                "name": "Cuissons des minerais",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Onglet Creatif",
+        "children": []
+      },
+      {
+        "name": "Block",
+        "children": []
+      },
+      {
+        "name": "Machine",
+        "children": [
+          {
+            "name": "Tank",
+            "children": [
+              {
+                "name": "Procedure",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Advanced_Tank",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Gemme",
+        "children": []
+      },
+      {
+        "name": "Dimension",
+        "children": [
+          {
+            "name": "Dimension Dinosaures",
+            "children": [
+              {
+                "name": "Dinosaure",
+                "children": [
+                  {
+                    "name": "Megaloceros",
+                    "children": []
+                  },
+                  {
+                    "name": "Henodus",
+                    "children": []
+                  },
+                  {
+                    "name": "Ceratosaurus",
+                    "children": []
+                  },
+                  {
+                    "name": "Confuciusornis",
+                    "children": []
+                  },
+                  {
+                    "name": "Titanis",
+                    "children": []
+                  },
+                  {
+                    "name": "Dilophosaurus",
+                    "children": []
+                  },
+                  {
+                    "name": "Velociraptor",
+                    "children": []
+                  },
+                  {
+                    "name": "Liopleurodon",
+                    "children": []
+                  },
+                  {
+                    "name": "Ankylosaurus",
+                    "children": [
+                      {
+                        "name": "Loot",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Parasaurolophus",
+                    "children": []
+                  },
+                  {
+                    "name": "Plesiosaur",
+                    "children": []
+                  },
+                  {
+                    "name": "Brachisaurus",
+                    "children": [
+                      {
+                        "name": "Loot",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Stegosaurus",
+                    "children": []
+                  },
+                  {
+                    "name": "Mammoth",
+                    "children": []
+                  },
+                  {
+                    "name": "Megalania",
+                    "children": []
+                  },
+                  {
+                    "name": "Gastornis",
+                    "children": []
+                  },
+                  {
+                    "name": "Alllosaurus",
+                    "children": [
+                      {
+                        "name": "Loot",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Tyrannosaurus",
+                    "children": []
+                  },
+                  {
+                    "name": "Icthyosaurus",
+                    "children": []
+                  },
+                  {
+                    "name": "Phorusrhacos",
+                    "children": []
+                  },
+                  {
+                    "name": "Sarcosuchus",
+                    "children": []
+                  },
+                  {
+                    "name": "Spinosaurus",
+                    "children": []
+                  },
+                  {
+                    "name": "Quagga",
+                    "children": []
+                  },
+                  {
+                    "name": "Gallimimus",
+                    "children": []
+                  },
+                  {
+                    "name": "Pterosaur",
+                    "children": []
+                  },
+                  {
+                    "name": "Deinonychus",
+                    "children": []
+                  },
+                  {
+                    "name": "Elasmotherium",
+                    "children": []
+                  },
+                  {
+                    "name": "Smilodon",
+                    "children": []
+                  },
+                  {
+                    "name": "Dodo",
+                    "children": []
+                  },
+                  {
+                    "name": "Triceratops",
+                    "children": []
+                  },
+                  {
+                    "name": "Mosasaurus",
+                    "children": []
+                  },
+                  {
+                    "name": "Pachycephalosaurus",
+                    "children": []
+                  },
+                  {
+                    "name": "Compsognathus",
+                    "children": []
+                  },
+                  {
+                    "name": "Kelenken",
+                    "children": []
+                  },
+                  {
+                    "name": "Dryosaurus",
+                    "children": []
+                  },
+                  {
+                    "name": "Therizinosaurus",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Nourriture",
+                "children": [
+                  {
+                    "name": "Cuissons",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Fossile",
+                "children": []
+              },
+              {
+                "name": "Blocks",
+                "children": [
+                  {
+                    "name": "Roche ancienne",
+                    "children": [
+                      {
+                        "name": "PierreTaillee",
+                        "children": [
+                          {
+                            "name": "PierreTailleeMoussues",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "RocheAncienne",
+                        "children": []
+                      },
+                      {
+                        "name": "Craft",
+                        "children": [
+                          {
+                            "name": "Four",
+                            "children": []
+                          },
+                          {
+                            "name": "Taillage",
+                            "children": [
+                              {
+                                "name": "RocheAncienne",
+                                "children": []
+                              },
+                              {
+                                "name": "PierreTaille",
+                                "children": []
+                              },
+                              {
+                                "name": "PierreAncienne",
+                                "children": []
+                              },
+                              {
+                                "name": "PierreTailleeMoussues",
+                                "children": []
+                              },
+                              {
+                                "name": "PierreAncienneMoussues",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Table de craft",
+                            "children": [
+                              {
+                                "name": "PierreAncienne",
+                                "children": []
+                              },
+                              {
+                                "name": "PierreAncienneMoussues",
+                                "children": []
+                              },
+                              {
+                                "name": "PierretailleeMoussues",
+                                "children": []
+                              },
+                              {
+                                "name": "RocheAncienne",
+                                "children": []
+                              },
+                              {
+                                "name": "PierreTaillee",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "PierreAncienne",
+                        "children": [
+                          {
+                            "name": "Outils en Pierre Ancienne",
+                            "children": []
+                          },
+                          {
+                            "name": "Moussues",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Bois ancien",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Items",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Armures_Outils",
+        "children": [
+          {
+            "name": "Onyx",
+            "children": [
+              {
+                "name": "Craft",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Etain",
+            "children": [
+              {
+                "name": "Craft",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Mithril",
+            "children": [
+              {
+                "name": "Craft",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Adamantium",
+            "children": [
+              {
+                "name": "Craft",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Cuivre",
+            "children": [
+              {
+                "name": "Craft",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Rubis",
+            "children": [
+              {
+                "name": "Craft",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Recette",
+        "children": [
+          {
+            "name": "Recette_Lingot",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Item",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "mon_mod",
+    "modName": "Mon_mod",
+    "version": "1.0.0",
+    "author": "brand, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.monmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}

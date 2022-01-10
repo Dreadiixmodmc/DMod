@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "mon_mod:blocks/pierre_ancienne_moussues",
+    "top": "mon_mod:blocks/pierre_ancienne_moussues",
+    "side": "mon_mod:blocks/pierre_ancienne_moussues"
+  }
+}

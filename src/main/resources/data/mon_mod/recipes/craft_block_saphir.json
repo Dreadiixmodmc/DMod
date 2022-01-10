@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:saphir"
+    },
+    "1": {
+      "item": "mon_mod:saphir"
+    },
+    "2": {
+      "item": "mon_mod:saphir"
+    },
+    "3": {
+      "item": "mon_mod:saphir"
+    },
+    "4": {
+      "item": "mon_mod:saphir"
+    },
+    "5": {
+      "item": "mon_mod:saphir"
+    },
+    "6": {
+      "item": "mon_mod:saphir"
+    },
+    "7": {
+      "item": "mon_mod:saphir"
+    },
+    "8": {
+      "item": "mon_mod:saphir"
+    }
+  },
+  "result": {
+    "item": "mon_mod:block_saphir",
+    "count": 1
+  }
+}

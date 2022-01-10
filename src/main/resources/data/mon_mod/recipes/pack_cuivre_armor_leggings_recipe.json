@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:cuivre"
+    },
+    "1": {
+      "item": "mon_mod:cuivre"
+    },
+    "2": {
+      "item": "mon_mod:cuivre"
+    },
+    "3": {
+      "item": "mon_mod:cuivre"
+    },
+    "5": {
+      "item": "mon_mod:cuivre"
+    },
+    "6": {
+      "item": "mon_mod:cuivre"
+    },
+    "8": {
+      "item": "mon_mod:cuivre"
+    }
+  },
+  "result": {
+    "item": "mon_mod:armure_cuivre_leggings",
+    "count": 1
+  }
+}

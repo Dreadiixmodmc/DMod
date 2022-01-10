@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:onyx"
+    },
+    "1": {
+      "item": "mon_mod:onyx"
+    },
+    "2": {
+      "item": "mon_mod:onyx"
+    },
+    "3": {
+      "item": "mon_mod:onyx"
+    },
+    "5": {
+      "item": "mon_mod:onyx"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_onyx_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/pierre_ancienne_moussues",
+    "up": "mon_mod:blocks/pierre_ancienne_moussues",
+    "north": "mon_mod:blocks/pierre_ancienne_moussues",
+    "east": "mon_mod:blocks/pierre_ancienne_moussues",
+    "south": "mon_mod:blocks/pierre_ancienne_moussues",
+    "west": "mon_mod:blocks/pierre_ancienne_moussues",
+    "particle": "mon_mod:blocks/pierre_ancienne_moussues"
+  }
+}

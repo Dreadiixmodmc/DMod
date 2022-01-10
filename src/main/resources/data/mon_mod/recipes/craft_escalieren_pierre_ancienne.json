@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:pierre_ancienne"
+    },
+    "3": {
+      "item": "mon_mod:pierre_ancienne"
+    },
+    "4": {
+      "item": "mon_mod:pierre_ancienne"
+    },
+    "6": {
+      "item": "mon_mod:pierre_ancienne"
+    },
+    "7": {
+      "item": "mon_mod:pierre_ancienne"
+    },
+    "8": {
+      "item": "mon_mod:pierre_ancienne"
+    }
+  },
+  "result": {
+    "item": "mon_mod:escalieren_pierre_ancienne",
+    "count": 4
+  }
+}

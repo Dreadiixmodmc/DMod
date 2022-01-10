@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mon_mod:block/cerise_slab"
+    },
+    "type=top": {
+      "model": "mon_mod:block/cerise_slab_top"
+    },
+    "type=double": {
+      "model": "mon_mod:block/cerise_slab_full"
+    }
+  }
+}

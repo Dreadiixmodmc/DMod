@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/block_fossile",
+    "up": "mon_mod:blocks/block_fossile",
+    "north": "mon_mod:blocks/block_fossile",
+    "east": "mon_mod:blocks/block_fossile",
+    "south": "mon_mod:blocks/block_fossile",
+    "west": "mon_mod:blocks/block_fossile",
+    "particle": "mon_mod:blocks/block_fossile"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/minerais_cuivre",
+    "up": "mon_mod:blocks/minerais_cuivre",
+    "north": "mon_mod:blocks/minerais_cuivre",
+    "east": "mon_mod:blocks/minerais_cuivre",
+    "south": "mon_mod:blocks/minerais_cuivre",
+    "west": "mon_mod:blocks/minerais_cuivre",
+    "particle": "mon_mod:blocks/minerais_cuivre"
+  }
+}

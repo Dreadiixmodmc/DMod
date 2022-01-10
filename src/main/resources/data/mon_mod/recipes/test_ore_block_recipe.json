@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:test"
+    },
+    "1": {
+      "item": "mon_mod:test"
+    },
+    "2": {
+      "item": "mon_mod:test"
+    },
+    "3": {
+      "item": "mon_mod:test"
+    },
+    "4": {
+      "item": "mon_mod:test"
+    },
+    "5": {
+      "item": "mon_mod:test"
+    },
+    "6": {
+      "item": "mon_mod:test"
+    },
+    "7": {
+      "item": "mon_mod:test"
+    },
+    "8": {
+      "item": "mon_mod:test"
+    }
+  },
+  "result": {
+    "item": "mon_mod:test_block",
+    "count": 1
+  }
+}

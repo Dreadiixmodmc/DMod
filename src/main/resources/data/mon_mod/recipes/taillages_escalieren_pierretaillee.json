@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "mon_mod:rocheancienne"
+  },
+  "result": "mon_mod:escalieren_pierretailleeen_roche_ancienne"
+}

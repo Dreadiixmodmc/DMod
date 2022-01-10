@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/minerais_etain",
+    "up": "mon_mod:blocks/minerais_etain",
+    "north": "mon_mod:blocks/minerais_etain",
+    "east": "mon_mod:blocks/minerais_etain",
+    "south": "mon_mod:blocks/minerais_etain",
+    "west": "mon_mod:blocks/minerais_etain",
+    "particle": "mon_mod:blocks/minerais_etain"
+  }
+}

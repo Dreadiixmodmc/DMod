@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:rocheancienne"
+    },
+    "1": {
+      "item": "mon_mod:rocheancienne"
+    },
+    "2": {
+      "item": "mon_mod:rocheancienne"
+    },
+    "3": {
+      "item": "mon_mod:rocheancienne"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pierretailleeen_roche_ancienne",
+    "count": 4
+  }
+}

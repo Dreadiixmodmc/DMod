@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/rubis",
+    "up": "mon_mod:blocks/rubis",
+    "north": "mon_mod:blocks/rubis",
+    "east": "mon_mod:blocks/rubis",
+    "south": "mon_mod:blocks/rubis",
+    "west": "mon_mod:blocks/rubis",
+    "particle": "mon_mod:blocks/rubis"
+  }
+}

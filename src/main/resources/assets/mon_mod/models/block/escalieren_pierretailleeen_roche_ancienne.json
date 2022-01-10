@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "top": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "side": "mon_mod:blocks/pierretailleeenrocheancienne"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "mon_mod:block/mureten_pierretailleeen_roche_ancienne_post"
+      }
+    },
+    {
+      "when": {
+        "north": "low"
+      },
+      "apply": {
+        "model": "mon_mod:block/mureten_pierretailleeen_roche_ancienne",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "low"
+      },
+      "apply": {
+        "model": "mon_mod:block/mureten_pierretailleeen_roche_ancienne",
+        "y": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "low"
+      },
+      "apply": {
+        "model": "mon_mod:block/mureten_pierretailleeen_roche_ancienne",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "low"
+      },
+      "apply": {
+        "model": "mon_mod:block/mureten_pierretailleeen_roche_ancienne",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "north": "tall"
+      },
+      "apply": {
+        "model": "mon_mod:block/mureten_pierretailleeen_roche_ancienne_side_tall",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "tall"
+      },
+      "apply": {
+        "model": "mon_mod:block/mureten_pierretailleeen_roche_ancienne_side_tall",
+        "y": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "tall"
+      },
+      "apply": {
+        "model": "mon_mod:block/mureten_pierretailleeen_roche_ancienne_side_tall",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "tall"
+      },
+      "apply": {
+        "model": "mon_mod:block/mureten_pierretailleeen_roche_ancienne_side_tall",
+        "y": 270,
+        "uvlock": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne"
+    },
+    "1": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne"
+    },
+    "2": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne"
+    },
+    "3": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne"
+    },
+    "4": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne"
+    },
+    "5": {
+      "item": "mon_mod:pierretailleeen_roche_ancienne"
+    }
+  },
+  "result": {
+    "item": "mon_mod:mureten_pierretailleeen_roche_ancienne",
+    "count": 6
+  }
+}

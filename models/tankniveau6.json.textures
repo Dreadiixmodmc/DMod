@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cote",
+        "1": "dessus",
+        "2": "eauanime"
+      },
+      "name": "default"
+    }
+  }
+}

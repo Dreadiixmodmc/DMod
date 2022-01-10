@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mon_mod:blocks/minerais_onyx",
+    "up": "mon_mod:blocks/minerais_onyx",
+    "north": "mon_mod:blocks/minerais_onyx",
+    "east": "mon_mod:blocks/minerais_onyx",
+    "south": "mon_mod:blocks/minerais_onyx",
+    "west": "mon_mod:blocks/minerais_onyx",
+    "particle": "mon_mod:blocks/minerais_onyx"
+  }
+}

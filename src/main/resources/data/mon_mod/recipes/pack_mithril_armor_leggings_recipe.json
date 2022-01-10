@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:mithril"
+    },
+    "1": {
+      "item": "mon_mod:mithril"
+    },
+    "2": {
+      "item": "mon_mod:mithril"
+    },
+    "3": {
+      "item": "mon_mod:mithril"
+    },
+    "5": {
+      "item": "mon_mod:mithril"
+    },
+    "6": {
+      "item": "mon_mod:mithril"
+    },
+    "8": {
+      "item": "mon_mod:mithril"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_mithril_armor_leggings",
+    "count": 1
+  }
+}

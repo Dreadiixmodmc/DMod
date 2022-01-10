@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:etain"
+    },
+    "1": {
+      "item": "mon_mod:etain"
+    },
+    "2": {
+      "item": "mon_mod:etain"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pioche_etain",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "top": "mon_mod:blocks/pierretailleeenrocheancienne",
+    "side": "mon_mod:blocks/pierretailleeenrocheancienne"
+  }
+}

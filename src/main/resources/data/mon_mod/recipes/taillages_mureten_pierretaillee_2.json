@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "mon_mod:pierretailleeen_roche_ancienne"
+  },
+  "result": "mon_mod:mureten_pierretailleeen_roche_ancienne"
+}

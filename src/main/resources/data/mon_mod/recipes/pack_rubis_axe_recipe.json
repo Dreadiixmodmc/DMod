@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:rubis"
+    },
+    "1": {
+      "item": "mon_mod:rubis"
+    },
+    "2": {
+      "item": "mon_mod:rubis"
+    },
+    "3": {
+      "item": "mon_mod:rubis_stick"
+    },
+    "5": {
+      "item": "mon_mod:rubis_stick"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_rubis_axe",
+    "count": 1
+  }
+}

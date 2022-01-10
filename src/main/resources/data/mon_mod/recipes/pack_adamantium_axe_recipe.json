@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mon_mod:adamantium"
+    },
+    "1": {
+      "item": "mon_mod:adamantium"
+    },
+    "2": {
+      "item": "mon_mod:adamantium"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mon_mod:pack_adamantium_axe",
+    "count": 1
+  }
+}
